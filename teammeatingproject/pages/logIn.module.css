@@ -1,0 +1,9 @@
+.allContentInFile {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.welcome {
+    margin-top: 100px;
+}
